@@ -3,7 +3,7 @@
 ---
 > 语言选择: [英文版](README.md) | [中文版](README_CN.md)
 
-> 基于 Polymarket、Augur 等平台真实安全事件的全栈检查清单
+> 基于 Polymarket、Kalshi、opinionlabsxyz、Augur 等平台真实安全事件的全栈检查清单
 
 ## 前言
 
